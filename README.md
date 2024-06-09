@@ -12,12 +12,13 @@
 
 # Result
 ### Input Video
-
-https://github.com/anzjoxavier/Project-Group-8-DS-MACE/assets/116029351/b40e254b-7f7b-40e4-94cc-d1147543d642
+<img src="https://github.com/anzjoxavier/Project-Group-8-DS-MACE/assets/116029351/4ebb50e8-afd0-4072-bc76-bf08927ada39" width="250" height="250"/>
 
 ### Output Video
 
-https://github.com/anzjoxavier/Project-Group-8-DS-MACE/assets/116029351/9d980df7-7a1f-4629-a389-d28596a935ae
+<img src="https://github.com/anzjoxavier/Project-Group-8-DS-MACE/assets/116029351/18a99ba7-6a6d-4d16-ad79-6e9d45741d19" width="250" height="250"/>
+
+
 
 > [!TIP]
 > Checkpoint Used in Stable Diffusion: aniverse_V13.safetensors [9fe4fec28d]
